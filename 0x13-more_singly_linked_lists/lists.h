@@ -23,7 +23,6 @@ listint_t;
  int n;
  struct listint_s *next;
 } listint_t;
->>>>>>> a9511acd80e02b423b973060dbbc550e04a7d491
 
 size_t print_listint(const listint_t *h);
 size_t listint_len(const listint_t *h);

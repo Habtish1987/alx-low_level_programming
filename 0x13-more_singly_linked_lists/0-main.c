@@ -4,11 +4,7 @@
 #include "lists.h"
 /**
  * main - check the code
-<<<<<<< HEAD
- *
-=======
  *  
->>>>>>> a9511acd80e02b423b973060dbbc550e04a7d491
  * Return : Always 0.
  *
  */
